@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irs-sl&label=Profile%20views&color=0e75b6&style=flat" alt="irs22" /> </p>
 
-- 🌱 I’m currently learning **PHP , MySQL**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **HTML , SCSS , JS**
 
