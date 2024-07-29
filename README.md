@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **HTML , SCSS , JS**
-
 - 📫 How to reach me **mail.irusha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
